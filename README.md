@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Punith kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Restaurant ordering**
+- 🔭 I’m currently working on ***
 
-- 🌱 I’m currently learning **Boostrap,springboot**
+- 🌱 I’m currently learning ****
 
-- 💬 Ask me about **Java ,HTML,CSS,Javascript**
+- 💬 Ask me about **Java ,HTML,CSS,Javascrip,React Nativ,Node,Express**
 
-- 📫 How to reach me **Punithdomain7@gmail.com**
+- 📫 How to reach me **Punith8.info@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UVT0MAVR1UleetHoHgAgi9b0QOwTnzmI/view?usp=sharing](https://drive.google.com/file/d/1UVT0MAVR1UleetHoHgAgi9b0QOwTnzmI/view?usp=sharing)
 
